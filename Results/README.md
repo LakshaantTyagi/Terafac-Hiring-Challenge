@@ -7,7 +7,7 @@ levels of the CIFAR-10 classification task.
 
 ## Level 1 – Baseline Results
 
-![Accuracy Curve]
+Accuracy Curve
 
 **Test Accuracy:** ~89%
 
