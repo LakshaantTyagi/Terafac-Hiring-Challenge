@@ -1,5 +1,7 @@
 # Terafac Hiring Challenge – CIFAR-10 Image Classification
 
+Google Collab link : https://colab.research.google.com/drive/15uDWHWPYz0VeDs1rVrQ5I_33tom3wY8Q?usp=sharing
+
 This repository contains my submission for the Terafac AI/Computer Vision/ML
 Hiring Challenge using the CIFAR-10 dataset.
 
